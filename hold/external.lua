@@ -1,5 +1,7 @@
-settings = {
+local settings = {
   active = true
   example = "dfjjf"
 }
-return settings
+function getExtSettings()
+  return settings
+end
