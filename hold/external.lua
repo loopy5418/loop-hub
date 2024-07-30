@@ -1,4 +1,4 @@
-local settings = {
+settings = {
   active = true
   example = "dfjjf"
 }
